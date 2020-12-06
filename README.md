@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ..C++, Graphic Designing, Youtube
-- 🌱 I’m currently learning .Web designing, Java, Python
-- 👯 I’m looking to collaborate on My Youtube Channel
-- 🤔 I’m looking for help with Open Source Contribution
-- 💬 Ask me about Anything
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Once we made the computer,Now its making it's own universe.
+-  I’m currently working on C++, Graphic Designing, Youtube
+-  I’m currently learning on the learning process.
+-  I’m looking to collaborate on My Youtube Channel
+-  I’m looking for help with Open Source Contribution
+-  Ask me about Anything
+-  How to reach me: LinkedIn
+-  Pronouns: He/Him
+-  Fun fact: Once we made the computer,Now its making it's own universe.
 -->
